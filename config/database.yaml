@@ -1,0 +1,13 @@
+# Configuration des connexions base de données
+
+development:
+  host: localhost
+  port: 5432
+  database: analytics_dev
+  user: analyst
+
+production:
+  host: prod-server.company.com
+  port: 5432
+  database: analytics_prod
+  user: analyst_prod

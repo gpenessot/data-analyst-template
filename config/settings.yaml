@@ -1,0 +1,12 @@
+# Paramètres d'analyse
+
+environment: development  # development | production
+
+analysis:
+  date_format: "%Y-%m-%d"
+  default_period_days: 30
+  missing_threshold: 0.05
+
+export:
+  figures_dpi: 300
+  report_format: html
