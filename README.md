@@ -74,13 +74,11 @@ make run-notebook
 
 ## Aller plus loin
 
-Ce template est un extrait de ce qu'on construit dans le **Productive Python Bootcamp** :
+Ce template pose la structure. S'en servir quand un projet réel casse, c'est autre chose.
 
-- 4 semaines pour passer de "je sais coder" à "je sais livrer"
-- Stack moderne : uv, DuckDB, CI/CD, GitHub Actions
-- Un projet déployé avec données réelles (25M+ lignes)
+**Hard Mode** : sept situations de travail data réelles dans une entreprise simulée, et une revue humaine de chacune de tes PR.
 
-👉 [Découvrir le bootcamp](https://www.mes-formations-data.fr/formation/bootcamp)
+👉 [Découvrir Hard Mode](https://www.mes-formations-data.fr/hard-mode)
 
 ---
 
